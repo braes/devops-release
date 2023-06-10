@@ -73,7 +73,7 @@ We would like to run the outcome of your work, so we ask you to document how to 
 2. [Enable Kubernetes](https://docs.docker.com/desktop/kubernetes/).
 3. [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
 4. Make sure nothing else is running on port 80
-5. Run following (powershell)
+5. Run following (powershell core)
 
     ```powershell
     kubectl config use-context docker-desktop
